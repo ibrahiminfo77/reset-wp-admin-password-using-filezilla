@@ -1,3 +1,4 @@
+<?php
 function wpb_admin_account(){
 	$user = 'admin';
 	$pass = '123456789';
